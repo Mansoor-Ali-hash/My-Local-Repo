@@ -1,1 +1,1 @@
-# This for just Python
+# Only Python
